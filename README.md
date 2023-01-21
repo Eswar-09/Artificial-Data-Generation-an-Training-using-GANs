@@ -1,0 +1,1 @@
+# Artificial-Data-Generation-an-Training-using-GANs
